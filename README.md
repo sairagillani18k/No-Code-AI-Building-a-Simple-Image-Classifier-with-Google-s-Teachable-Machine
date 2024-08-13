@@ -15,7 +15,7 @@ The Teachable Machine is an easy-to-use tool for creating machine learning model
 - Select the `Image Project` option.
 - You can either start a new project or open an existing one from your Google Drive.
 
-![New Project](./path/to/image1.png)
+![New Project](.1.png)
 
 ### 2. Choose Your Model Type
 
