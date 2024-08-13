@@ -49,4 +49,4 @@ The Teachable Machine is an easy-to-use tool for creating machine learning model
 
 - Enter the following command to run the script
 ```bash
-  python3 main.py
+  python main.py
