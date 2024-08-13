@@ -21,14 +21,14 @@ The Teachable Machine is an easy-to-use tool for creating machine learning model
 
 - You have the option to choose between a `Standard image model` and an `Embedded image model`. For this project, we used the `Standard image model`.
 
-![Model Type](./path/to/image2.png)
+![Model Type](2.png)
 
 ### 3. Train Your Model
 
 - Add image samples for each class (e.g., Cats and Dogs).
 - Train the model by clicking the `Train Model` button. The model will learn to differentiate between the provided image classes.
 
-![Training the Model](./path/to/image3.png)
+![Training the Model](3.png)
 
 ### 4. Export the Model
 
@@ -36,7 +36,7 @@ The Teachable Machine is an easy-to-use tool for creating machine learning model
 - Select the `TensorFlow SavedModel` format to export your trained model.
 - Download the model and save it to your local machine.
 
-![Exporting the Model](./path/to/image4.png)
+![Exporting the Model](4.png)
 
 ### 5. Running the Model in Python
 
