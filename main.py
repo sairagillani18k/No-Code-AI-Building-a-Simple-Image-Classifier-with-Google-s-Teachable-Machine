@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # Load the SavedModel using TFSMLayer
-model = tf.keras.layers.TFSMLayer('/home/huraira/Downloads/converted_savedmodel/model.savedmodel', call_endpoint='serving_default')
+model = tf.keras.layers.TFSMLayer('/path/to/model.savedmodel', call_endpoint='serving_default')
 
 # Load the labels
 class_names = open("/path/to/labels.txt", "r").readlines()
